@@ -11,7 +11,7 @@ body{
     font-weight: bold;
 }
 #one-dis{
-    width: 40%;
+    width: 90%;
     height: 35px;
     margin-top: 5%;
     margin-left: 5%;
@@ -28,7 +28,8 @@ body{
     height: 350px;
     margin: 5% auto;
     border-radius: 20px;
-    background-image: url(X.png);
+    background-image: url(../X.jpg);
+    background-size: 100% 100%;
 }
 #one-butt{
     width: 100%;
@@ -55,7 +56,7 @@ body{
     background-color: blueviolet;
 }
 #one-diss{
-    width: 50%;
+    width: 70%;
     height: 20px;
     margin-top: 5%;
     margin-left: 5%;
