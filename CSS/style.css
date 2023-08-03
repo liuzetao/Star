@@ -3,18 +3,18 @@ body{
     padding: 0px;
 }
 #one-txt{
-    margin-top: 15%;
-    margin-left: 2%;
+    margin-top: 25%;
+    margin-left: 5%;
 }
 #one-txt .txt-one{
-    font-size: 20px;
+    font-size: 28px;
     font-weight: bold;
 }
 #one-dis{
     width: 40%;
     height: 35px;
     margin-top: 5%;
-    margin-left: 2%;
+    margin-left: 5%;
     line-height: 35px;
     border-left: 4px solid blue;
 }
@@ -28,7 +28,7 @@ body{
     height: 350px;
     margin: 5% auto;
     border-radius: 20px;
-    background-color: #f1f1f1;
+    background-color: black;
 }
 #one-butt{
     width: 100%;
@@ -53,4 +53,25 @@ body{
     background: none;
     font-weight: bold;
     background-color: blueviolet;
+}
+#one-diss{
+    width: 50%;
+    height: 20px;
+    margin-top: 5%;
+    margin-left: 5%;
+    line-height: 20px;
+    border-left: 4px solid blue;
+}
+#one-diss .txt-three{
+    font-weight: bold;
+    text-indent: 10px;
+    display: block;
+    font-size: 10px;
+}
+#one-pngs{
+    width: 90%;
+    height: 350px;
+    margin: 25% auto auto auto;
+    border-radius: 20px;
+    background-color: black;
 }
